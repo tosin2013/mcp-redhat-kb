@@ -1,6 +1,6 @@
 {
   "name": "mcp-redhat-kb",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "mcpName": "io.github.jeanlopezxyz/mcp-redhat-kb",
   "description": "MCP Server for Red Hat Knowledge Base",
   "main": "cli.js",

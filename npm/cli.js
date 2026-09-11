@@ -6,7 +6,7 @@ const fs = require("fs");
 const path = require("path");
 const https = require("https");
 
-const GITHUB_REPO = "jeanlopezxyz/mcp-redhat-kb";
+const GITHUB_REPO = "labjp-mcp/mcp-redhat-kb";
 const JAR_NAME = "mcp-redhat-kb.jar";
 const CHECKSUMS_NAME = "checksums.txt";
 const CACHE_DIR = path.join(require("os").homedir(), ".cache", "mcp-redhat-kb");
