@@ -1,7 +1,7 @@
 {
   "name": "mcp-redhat-kb",
-  "version": "1.0.0",
-  "mcpName": "io.github.jeanlopezxyz/mcp-redhat-kb",
+  "version": "2.0.0",
+  "mcpName": "io.github.labjp-mcp/mcp-redhat-kb",
   "description": "MCP Server for Red Hat Knowledge Base",
   "main": "cli.js",
   "bin": {
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeanlopezxyz/mcp-redhat-kb"
+    "url": "https://github.com/labjp-mcp/mcp-redhat-kb"
   },
   "engines": {
     "node": ">=22.0.0"
